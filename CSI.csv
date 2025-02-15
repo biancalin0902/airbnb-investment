@@ -1,0 +1,37 @@
+﻿city,crime_severity_index_2022,crime_severity_index_2021_to_2022_%_change,crime_rate_2022,crime_rate_2021_to_2022_%_change
+Canada,78.1,4,5668,5
+St. John's,81,19,6061,19
+Halifax,72.2,8,5660,15
+Moncton,105.4,-6,8206,-11
+Saint John,54.6,9,4224,-5
+Saguenay,51.4,3,3278,6
+Québec,46.8,9,3164,12
+Sherbrooke,51.2,-1,3260,4
+Trois-Rivières,54.8,8,3312,5
+Montréal,61.4,3,3595,12
+Gatineau{4},60.4,20,3767,20
+Ottawa{5},52.9,10,4019,15
+Kingston,76.1,8,5613,6
+Belleville,67.7,-1,5266,-2
+Peterborough,64,-1,5183,10
+Toronto,51.9,14,3531,17
+Hamilton,57.7,0s,4101,4
+St. Catharines–Niagara,56.9,-9,4135,3
+Kitchener–Cambridge–Waterloo,79.1,3,5462,-2
+Brantford,75.9,1,5323,-6
+Guelph,60.6,8,4714,7
+London,74,-8,5482,-5
+Windsor,68.6,-11,4765,1
+Barrie,47.1,4,3691,5
+Greater Sudbury,82.8,-3,5297,-2
+Thunder Bay,103.5,0s,5842,-5
+Winnipeg,136.6,20,8757,24
+Regina,106.9,-5,7543,0s
+Saskatoon,113.5,8,8079,9
+Lethbridge,119,-8,9358,-5
+Calgary,75.2,4,5716,5
+Edmonton,100.4,3,7884,8
+Kelowna,128,4,10532,-5
+Abbotsford–Mission,85.3,5,5706,-2
+Vancouver,92.4,6,5891,0s
+Victoria,75,3,5692,-3
